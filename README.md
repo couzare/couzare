@@ -72,7 +72,7 @@ I am also Aussie & German in Nationality!
 
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-  <a href="#"><img alt="Adblock+" src="https://img.shields.io/static/v1?style=flat&message=Adblock+Plus&color=C70D2C&logo=Adblock+Plus&logoColor=FFFFFF&label="</a>
+  <a href="#"><img alt="Adblock+" src="https://img.shields.io/static/v1?style=flat&message=Adblock+Plus&color=C70D2C&logo=Adblock+Plus&logoColor=FFFFFF&label="></a>
   <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
