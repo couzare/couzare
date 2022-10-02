@@ -10,7 +10,6 @@ I am an aspiring cloud service engineer at Macquarie Cloud Services with a backg
 I am also Aussie & German in Nationality!
 
 <br />
-<br />
 
 ### Compotency
 
