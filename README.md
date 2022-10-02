@@ -90,4 +90,5 @@ I am also Aussie & German in Nationality!
 <p>
   <a href="#"><img alt="HackTheBox" src="https://img.shields.io/static/v1?style=flat&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
   <a href="#"><img alt="KaliLinux" src="https://img.shields.io/static/v1?style=flat&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label="></a>
+  <a href="#"><img alt="Splunk" src="https://img.shields.io/static/v1?style=flat&message=Splunk&color=000000&logo=Splunk&logoColor=FFFFFF&label="></a>
 </p>
