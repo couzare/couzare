@@ -20,7 +20,6 @@ I am an aspiring cloud service engineer at Macquarie Cloud Services with a backg
 
 <br />
 
-#
 
 ## 🛠️ The magic that I use
 ### 👨‍💻 Programming and markup languages
