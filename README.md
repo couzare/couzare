@@ -7,6 +7,8 @@
 
 I am an aspiring cloud service engineer at Macquarie Cloud Services with a background in Cybersecurity and Software Engineering. I studied at the University of Wollongong, Australia, but prior to finding my passion in Computer Science, I was studying Medicinal Chemistry. I once partook in a courageous endeavour to create my own gaming service provider, named SilkCraft, trading under Silk Gaming T/A, which sparked my interests and gravitated me towards the world of Computer Science.
 
+I am also Aussie & German in Nationality!
+
 ### Compotency
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
