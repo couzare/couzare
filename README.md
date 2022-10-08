@@ -5,9 +5,9 @@
 
 **`HMC ENGINEER TIER 1 @ MACQUARIE CLOUD SERVICES (Proud to be Cloud)`**
 
-I am an aspiring cloud service engineer at Macquarie Cloud Services with a background in Cybersecurity and Software Engineering. I studied at the University of Wollongong, Australia, but prior to finding my passion in Computer Science, I was studying Medicinal Chemistry. I once partook in a courageous endeavour to create my own gaming service provider, named SilkCraft, trading under Silk Gaming T/A, which sparked my interests and gravitated me towards the world of Computer Science.
+I am an aspiring hosting management centre engineer tier 1 at Macquarie Cloud Services with a background in Cybersecurity and Software Engineering. I studied at the University of Wollongong, Australia, but prior to finding my passion in Computer Science, I was studying Medicinal Chemistry. I once partook in a courageous endeavour to create my own gaming service provider, named SilkCraft, trading under Silk Gaming T/A, which sparked my interests and gravitated me towards the world of Computer Science.
 
-I am also Aussie & German in Nationality!
+Also, I am Aussie & German in Nationality!
 
 <br />
 
