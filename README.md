@@ -3,11 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-**`HMC ENGINEER TIER 1 @ MACQUARIE CLOUD SERVICES (Proud to be Cloud)`**
+**`HMC ENGINEER TIER 1 @ MACQUARIE CLOUD SERVICES`**
 
 I am an aspiring hosting management centre engineer tier 1 at Macquarie Cloud Services with a background in Cybersecurity and Software Engineering. I studied at the University of Wollongong, Australia, but prior to finding my passion in Computer Science, I was studying Medicinal Chemistry. I once partook in a courageous endeavour to create my own gaming service provider, named SilkCraft, trading under Silk Gaming T/A, which sparked my interests and gravitated me towards the world of Computer Science.
-
-Also, I am Aussie & German in Nationality!
 
 <br />
 
@@ -76,23 +74,18 @@ Also, I am Aussie & German in Nationality!
 
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-  <a href="#"><img alt="Adblock+" src="https://img.shields.io/static/v1?style=flat&message=Adblock+Plus&color=C70D2C&logo=Adblock+Plus&logoColor=FFFFFF&label="></a>
   <a href="#"><img alt="audioTech" src="https://img.shields.io/static/v1?style=flat&message=Audio-Technica&color=000000&logo=Audio-Technica&logoColor=FFFFFF&label="></a>
   <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="HackTheBox" src="https://img.shields.io/static/v1?style=flat&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
   <a href="#"><img alt="IntelliJ" src="https://img.shields.io/static/v1?style=flat&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label="></a>
   <a href="#"><img alt="IFTTT" src="https://img.shields.io/static/v1?style=flat&message=IFTTT&color=000000&logo=IFTTT&logoColor=FFFFFF&label="></a>
   <a href="#"><img alt="JetBrains" src="https://img.shields.io/static/v1?style=flat&message=JetBrains&color=000000&logo=JetBrains&logoColor=FFFFFF&label="></a>
+  <a href="#"><img alt="KaliLinux" src="https://img.shields.io/static/v1?style=flat&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label="></a>
   <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-### 💻 CyberSecurity
-<p>
-  <a href="#"><img alt="HackTheBox" src="https://img.shields.io/static/v1?style=flat&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
-  <a href="#"><img alt="KaliLinux" src="https://img.shields.io/static/v1?style=flat&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label="></a>
 </p>
