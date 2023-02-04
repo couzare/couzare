@@ -1,11 +1,12 @@
 <h3 align="center">
   Tristan Gardner
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-**`HMC ENGINEER TIER 1 @ MACQUARIE CLOUD SERVICES`**
+Planned upcoming certificates:
+- CCNA
+- AZ104
+- NSE4
 
-I am an aspiring hosting management centre engineer tier 1 at Macquarie Cloud Services with a background in Cybersecurity and Software Engineering. I studied at the University of Wollongong, Australia, but prior to finding my passion in Computer Science, I was studying Medicinal Chemistry. I once partook in a courageous endeavour to create my own gaming service provider, named SilkCraft, trading under Silk Gaming T/A, which sparked my interests and gravitated me towards the world of Computer Science.
 
 <br />
 
