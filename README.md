@@ -3,9 +3,10 @@
 </h3>
 
 Hardware enthusiast.
-CyberSec.
+<br />CyberSec.
 
 <br />
+
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -21,9 +22,9 @@ CyberSec.
 
 ## 💻 My Stack
 Ubiquiti Dream Machine Pro SE
-Ubiquiti Switch Pro 24 PoE++
-Dell PowerEdge C2100    w/ 2xE5-2640       | 32GB RAM   | JBOD 20TB  | PERC H200i - itmode
-HP ProLiant G8 DL380p   w/ 2xE5-2660v2     | 128GB RAM  | ZFS 6TB
-InterTech ASUS Tuf      w/ Ryzen 5 5600X   | 32GB RAM   | ZFS 8TB
-RPie M4B
+<br />Ubiquiti Switch Pro 24 PoE++
+<br />Dell PowerEdge C2100    w/ 2xE5-2640       | 32GB RAM   | JBOD 20TB  | PERC H200i - itmode
+<br />HP ProLiant G8 DL380p   w/ 2xE5-2660v2     | 128GB RAM  | ZFS 6TB
+<br />InterTech ASUS Tuf      w/ Ryzen 5 5600X   | 32GB RAM   | ZFS 8TB
+<br />RPie M4B
 </p>
