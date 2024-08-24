@@ -3,7 +3,11 @@
 </h3>
 
 Hardware enthusiast.
-<br />CyberSec.
+<br />Cyber Security.
+<br />Developer.
+<br />NetEng.
+<br />Homelabber.
+<br />Data Center Operator.
 <br />
 <br />
 
@@ -23,10 +27,19 @@ Hardware enthusiast.
 <br />
 
 ## 💻 My Stack
-Ubiquiti Dream Machine Pro SE
-<br />Ubiquiti Switch Pro 24 PoE++
-<br />Dell PowerEdge C2100    w/ 2xE5-2640       | 32GB RAM   | JBOD 20TB  | PERC H200i - itmode
-<br />HP ProLiant G8 DL380p   w/ 2xE5-2660v2     | 128GB RAM  | ZFS 6TB
-<br />InterTech ASUS Tuf      w/ Ryzen 5 5600X   | 32GB RAM   | ZFS 8TB
-<br />RPie M4B
+NET - Ubiquiti Dream Machine Pro
+<br />NET - RPie M4B - DNS
+<br />NET - RPie M4B - PXE && TFTP
+<br />NET - Ubiquiti Aggregation Switch 8 Port - NWC
+<br />NET - Ubiquiti Aggregation Switch 8 Port - TOR
+<br />NET - Ubiquiti Switch Pro 24 PoE++ - TOR
+<br />NET - Ubiquiti Switch Lite 16 PoE+ - SW
+<br />NET - Ubiquiti Switch Lite 8 PoE+ - SW
+<br />NET - 3x Ubiquiti Switch Flex 5 - SW
+<br />NET - 2x Ubiquiti U6-Pro - WAP
+<br />NVR - ReoLink - NVR
+<br />NVR - 8x ReoLink - CAM
+<br />SVR - Dell PowerEdge C2100    w/ 2xIntel X5670       | 192GB ECC RAM   | JBOD 100TB  | PERC H200i - itmode
+<br />SVR - HP ProLiant G8 DL380p   w/ 2xIntel E5-2660v2     | 128GB ECC RAM  | ZFS 20TB
+<br />SVR - InterTech ASUS TUF X570      w/ AMD Ryzen 5 5600X   | 64GB ECC RAM   | ZFS 8TB
 </p>
